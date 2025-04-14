@@ -16,7 +16,7 @@ export default function Home() {
       </nav>
 
       <div className="text-center max-w-2xl">
-        <h1 className="text-5xl font-bold text-blue-800 mb-4">Welcome to SchoolLink</h1>
+        <h1 className="text-5xl font-bold text-blue-800 mb-4">Welcome to SHWETHA NURSERY HIGHER PRIMARY AND HIGH SCHOOL</h1>
         <p className="text-lg text-gray-700 mb-8">
           A modern announcement and notification platform for teachers, parents, and students.
         </p>
