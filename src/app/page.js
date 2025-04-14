@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-gradient-to-br from-blue-50 to-blue-100 flex flex-col items-center justify-start p-6">
       <nav className="w-full max-w-6xl flex justify-between items-center py-4 px-4 bg-white rounded-2xl shadow mb-10">
-        <h1 className="text-xl font-bold text-blue-800">SchoolLink</h1>
+        <h1 className="text-xl font-bold text-blue-800">SHWETHA NURSERY HIGHER PRIMARY AND HIGH SCHOOL</h1>
         <div className="flex gap-4 text-sm">
           <Link href="/" className="text-blue-700 hover:underline">Home</Link>
           <Link href="/login" className="text-blue-700 hover:underline">Login</Link>
@@ -52,7 +52,7 @@ export default function Home() {
         </div>
 
         <footer className="mt-12 text-sm text-gray-500">
-          &copy; {new Date().getFullYear()} SchoolLink. All rights reserved.
+          &copy; {new Date().getFullYear()} SHWETHA NURSERY HIGHER PRIMARY AND HIGH SCHOOL. All rights reserved.
         </footer>
       </div>
     </main>
