@@ -30,7 +30,7 @@ export default function RegisterPage() {
     <main className="min-h-screen bg-gradient-to-br from-blue-50 to-blue-100 flex flex-col">
       {/* Top Navbar */}
       <nav className="w-full bg-white shadow px-6 py-4 flex justify-between items-center">
-        <Link href="/" className="text-xl font-bold text-blue-700">SHWETHA NURSERY HIGHER PRIMARY AND HIGH SCHOOL</Link>
+        <Link href="/" className="text-xl font-bold text-blue-700">Shwetha Primary And High School</Link>
         <div className="space-x-4 text-sm">
           <Link href="/" className="text-blue-700 hover:underline">Home</Link>
           <Link href="/login" className="text-blue-700 hover:underline">Login</Link>
@@ -112,7 +112,7 @@ export default function RegisterPage() {
 
       {/* Footer */}
       <footer className="text-center text-sm text-gray-500 py-4">
-        © {new Date().getFullYear()} SchoolLink. All rights reserved.
+        © {new Date().getFullYear()} Shwetha Primary And High School. All rights reserved.
       </footer>
     </main>
   );
