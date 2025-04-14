@@ -14,7 +14,7 @@ export default function LogoutPage() {
       <div className="bg-white p-8 rounded-2xl shadow-xl w-full max-w-md text-center">
         <h1 className="text-3xl font-bold text-blue-700 mb-4">You&apos;ve been logged out</h1>
         <p className="text-gray-600 mb-6">
-          Thanks for using <span className="font-medium text-blue-700">SchoolLink </span>! You&apos;re safely signed out.
+          Thanks for using <span className="font-medium text-blue-700">Shwetha Primary And High School </span>! You&apos;re safely signed out.
         </p>
 
         <div className="flex flex-col gap-3">
