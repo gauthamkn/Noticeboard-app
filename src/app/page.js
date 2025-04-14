@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-gradient-to-br from-blue-50 to-blue-100 flex flex-col items-center justify-start p-6">
       <nav className="w-full max-w-6xl flex justify-between items-center py-4 px-4 bg-white rounded-2xl shadow mb-10">
-        <h1 className="text-xl font-bold text-blue-800">SHWETHA NURSERY HIGHER PRIMARY AND HIGH SCHOOL</h1>
+        <h1 className="text-xl font-bold text-blue-800">Shwetha Primary And High School</h1>
         <div className="flex gap-4 text-sm">
           <Link href="/" className="text-blue-700 hover:underline">Home</Link>
           <Link href="/login" className="text-blue-700 hover:underline">Login</Link>
@@ -16,7 +16,7 @@ export default function Home() {
       </nav>
 
       <div className="text-center max-w-2xl">
-        <h1 className="text-5xl font-bold text-blue-800 mb-4">Welcome to SHWETHA NURSERY HIGHER PRIMARY AND HIGH SCHOOL</h1>
+        <h1 className="text-5xl font-bold text-blue-800 mb-4">Welcome to Shwetha Primary And High School</h1>
         <p className="text-lg text-gray-700 mb-8">
           A modern announcement and notification platform for teachers, parents, and students.
         </p>
