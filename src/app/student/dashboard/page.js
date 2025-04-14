@@ -20,7 +20,7 @@ export default function StudentDashboard() {
     <main className="min-h-screen bg-blue-50 p-6 flex flex-col justify-between">
       <div>
         <nav className="w-full max-w-6xl flex justify-between items-center py-4 px-4 bg-white rounded-2xl shadow mb-10">
-          <h1 className="text-xl font-bold text-blue-800">SHWETHA NURSERY HIGHER PRIMARY AND HIGH SCHOOL</h1>
+          <h1 className="text-xl font-bold text-blue-800">Shwetha Primary And High School</h1>
           <div className="flex gap-4 text-sm">
             <Link href="/student/dashboard" className="text-blue-700 hover:underline">Dashboard</Link>
             <Link href="/logout" className="text-blue-700 hover:underline">Logout</Link>
@@ -49,7 +49,7 @@ export default function StudentDashboard() {
       </div>
 
       <footer className="mt-10 text-center text-sm text-gray-500">
-        &copy; {new Date().getFullYear()} SHWETHA NURSERY HIGHER PRIMARY AND HIGH SCHOOL. All rights reserved.
+        &copy; {new Date().getFullYear()} Shwetha Primary And High School. All rights reserved.
       </footer>
     </main>
   );
