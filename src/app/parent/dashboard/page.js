@@ -68,7 +68,7 @@ export default function ParentDashboard() {
   return (
     <main className="min-h-screen bg-blue-50 p-6">
       <nav className="w-full max-w-6xl flex justify-between items-center py-4 px-4 bg-white rounded-2xl shadow mb-10">
-        <h1 className="text-xl font-bold text-blue-800">SchoolLink</h1>
+        <h1 className="text-xl font-bold text-blue-800">SHWETHA NURSERY HIGHER PRIMARY AND HIGH SCHOOL</h1>
         <div className="flex gap-4 text-sm">
           <Link href="/parent/dashboard" className="text-blue-700 hover:underline">Dashboard</Link>
           <Link href="/logout" className="text-blue-700 hover:underline">Logout</Link>
